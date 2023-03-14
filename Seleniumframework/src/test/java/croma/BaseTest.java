@@ -192,6 +192,10 @@ public class BaseTest {
 		//}
 		
 		//span[contains(text(),'Mumbai')]
+		public void github(){
+	system.out.println("add github")
+	}
+
 
 	}
 }
