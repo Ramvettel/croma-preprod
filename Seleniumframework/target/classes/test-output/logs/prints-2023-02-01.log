@@ -1,0 +1,6 @@
+11:29:05.990 [main] DEBUG croma.base.BaseClass - Removed all items from the cart
+11:29:06.165 [main] DEBUG croma.base.BaseClass - Enter 218110 in Searchbox
+11:29:06.339 [main] DEBUG croma.base.BaseClass - Clicked on search button and navigate to Search Listing Page
+11:29:07.163 [main] DEBUG croma.base.BaseClass - Clicked on product link and navigate to Product Specification Page
+11:29:12.911 [main] DEBUG croma.base.BaseClass - Clicked on Buy Now button and navigate to Cart Page
+11:29:15.764 [main] DEBUG croma.base.BaseClass - Clicked on Checkout Button and navigate to Shipping Page
