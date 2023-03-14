@@ -140,5 +140,9 @@ public class BaseClass {
 		return (System.getProperty("user.dir") + "//reports//" + testcasename + ".png");
 
 	}
+	
+	public void github(){
+	system.out.println("add github")
+	}
 
 }
